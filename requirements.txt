@@ -1,6 +1,5 @@
-numpy
-torch==1.9.1
-torchvision==0.10.1
-opencv-python-headless
+torch
+torchvision
+opencv-python
+scikit-image
 scipy
-Pillow
